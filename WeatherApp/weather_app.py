@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your actual API key
-API_KEY = "9e340b46784d86bae16c3b0f6c26f171"
+API_KEY = "I've removed it"
 
 def get_weather(city):
     base_url = "http://api.openweathermap.org/data/2.5/weather"
