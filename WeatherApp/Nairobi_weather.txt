@@ -1,0 +1,5 @@
+Weather in Nairobi:
+Temperature: 20.1°C (Feels like 20.28°C)
+Humidity: 81%
+Wind: 3.44 m/s
+Conditions: Moderate rain
